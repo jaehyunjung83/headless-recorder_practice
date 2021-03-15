@@ -58,8 +58,8 @@ This project builds on existing open source projects (see [Credits](#-credits)) 
 2. Access project directory and use npm to install dependencies: `$ cd headless-recorder && npm i`
 3. Use the build npm script to build it: `$ npm run dev`
 ---
-`(오류 시)'NODE_ENV'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
-배치 파일이 아닙니다.`
+(오류 시)'NODE_ENV'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
+배치 파일이 아닙니다.
 `$ npm install -g win-node-env`
 ---
 4. Open chrome and navigate to extensions page using this URL: `chrome://extensions` 
